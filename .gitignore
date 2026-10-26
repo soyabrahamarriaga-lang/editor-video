@@ -1,0 +1,19 @@
+# Nunca material de clientes ni pesados
+clientes/
+*.mp4
+*.mov
+*.MOV
+*.MP4
+*.m4a
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+*.TextGrid
+.hyperframes/
+__pycache__/
+.DS_Store
+tests/_tmp/
